@@ -13,7 +13,6 @@
 ### picture_sen1.py & picture_sen2: Drawing pictures.
 ### pso_model.py: Particle swarm optimization process.
 ### test_ADA.py: Test the searched data augmentation policies.
-### test_Augment.py: Test the searched data augmentation policies.
 ### test_model.py: The fitness evaluation process of particle swarm optimization.
 ### utils.py: Various tools used in the code.
 
