@@ -178,5 +178,5 @@ def infer_ae(X_vaild, Y_vaild, model, criterion):
     return loss_AM.avg, acc_AM.avg, sen, spe
 
 
-list_ind = [4, 5, 1.0, 0.0, 0, 1, 0.17, 0.0, 5, 1, 1.0, 0.14, 1, 4, 1.0, 0.36]
+list_ind = []
 test_main(list_ind)
